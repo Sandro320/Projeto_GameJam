@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/TopDownBP/Maps/Main_Menu.umap
+*.umap
